@@ -20,7 +20,7 @@
 /* Global Colors */
 :root {
   /* Background Color - This color is applied to the background of the entire website as well as individual sections. */
-  --background-color: #151515;
+  --background-color: #0a0909;
 
   /* Default Color - This is the default color used for the majority of the text content. */
   --default-color: #f2f2f2;
@@ -32,7 +32,7 @@
   --accent-color: #1e8228;
 
   /* Contrast Color - This is a color used for text when the background color is one of the heading, accent, or default colors. Its purpose is to ensure proper contrast and readability when placed over these more dominant colors. */
-  --contrast-color: #c2c0c0;
+  --contrast-color: #000000;
 }
 
 /* Nav Menu Colors */
